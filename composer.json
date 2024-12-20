@@ -1,0 +1,19 @@
+{
+    "name": "andreterceiro/mathematics",
+    "description": "Simple mathematic calculations",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Andreterceiro\\Mathematics\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "André de Paula Terceiro",
+            "email": "andreterceiro@yahoo.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
